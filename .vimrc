@@ -1,9 +1,9 @@
-:set nocompatible
-:syntax on
-:set background=dark
+set nocompatible
+syntax on
+set background=dark
 
-:set incsearch
-:set hlsearch
+set incsearch
+set hlsearch
 
 " indenting
 filetype plugin indent on
